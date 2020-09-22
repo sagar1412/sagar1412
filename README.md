@@ -1,5 +1,11 @@
-# sagar
-# Assignments are given as following names:
-# Assignment1:assignment for interview
-# Assignment2:elastic search
-# contanct no:8867470037
+### Hi there, I'm Sagar.S 👋
+
+
+
+## I'm a Husband, Father, Developer, and Teacher!
+
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
