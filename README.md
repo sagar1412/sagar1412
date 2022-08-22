@@ -2,7 +2,7 @@
 
 
 
-## I'm a Engineer , MBA Graduate, Data Analyst, and Entrepreneur!
+## I'm a Engineer , MBA Graduate, Data Scientist, and Entrepreneur!
 
 - 🔭 I’m currently working on a [**VS Code , Jupyter NoteBook**]!
 - 🌱 I’m currently learning everything 🤣
